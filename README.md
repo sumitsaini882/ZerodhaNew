@@ -1,0 +1,1 @@
+A MERN stack based Zerodha-inspired trading platform with a React frontend and Node.js + Express backend. Features include user authentication, buy/sell orders, portfolio management, and secure environment variable handling. Built for learning and practice purposes. Not affiliated with Zerodha.
